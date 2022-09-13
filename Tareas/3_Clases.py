@@ -13,7 +13,7 @@ DESCRIPTION
         Para las clases Terrestre, Acuatico y Aereo usamos herencia de la clase 
         Transpote, existiendo polimorfismos entre las mismas.
 GITHUB 
-        https://github.com/Melii99/python_class/tree/branch1/Tareas/3_Clases.py
+        https://github.com/Melii99/python_class/tree/main/Tareas/3_Clases.py
        
 """
 
