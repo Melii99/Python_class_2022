@@ -86,4 +86,4 @@ for codon in codones:
   else: transcrito.append('El codón encontrado no codifica un aminoácido')
 
 #Se imprime a pantalla el transcrito
-print(transcrito)
+print("".join(transcrito))
