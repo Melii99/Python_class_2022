@@ -29,7 +29,7 @@ INPUT
         3) Una ruta para crear el archivo donde guardar el numero de secuencias
           que pasan el umbral de calidad y sus IDs
 OUTPUT
-        1) Archivo con el numero de secuenciasque pasan el umbral de calidad y sus IDs
+        1) Archivo con el numero de secuencias que pasan el umbral de calidad y sus IDs
         2) Se imprimen a pantalla la información solicitada del archivo virus.gb
 EXAMPLES
         Input
@@ -37,10 +37,10 @@ EXAMPLES
         2) 29
         3) C:\\Users\\Melissa\\Downloads\\IDs_fastq
         Output
-        1) MGMTPRLGLESLLE
-        2) MKRHQFKSWIFELREIKNYHYFLDSWIKFDSVGSFTHIFFHQERFMKLFDPRIWSILLSRDSQGATSNRYFTIKGVVLL ...
-           MKRHQFKSWIFELREIKNYHYFLDSWIKFDSVGSFTHIFFHQERFMKLFDPRILSILLSRDSQGATSNRYFMIMIKGVV ...
-           MYVNGKILRIFKLKKDGFRQQNFLYPLLFQEYIYSLAHDHNFNSLIFYEPVEIIGYDNKSSLVLVKRLITQMYQQNFFI ...
+        1) Archivo IDs_fastq
+        2) Fha:  13-AUG-2018
+           Organismo del que proviene:  Isfahan virus
+           País de orígen: ['Iran:Isfahan province']
 GITHUB 
         https://github.com/Melii99/Python_class_2022/tree/main/Tareas/5_Secuencias_y_formatos_2.py
        
