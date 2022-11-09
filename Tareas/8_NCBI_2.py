@@ -26,7 +26,9 @@ INPUT
         Un diccionario con el organismo (key) y una lista de bases de datos y sus 
         IDs correspondientes (values)
 OUTPUT
-        Un archivo que contiene 
+        Un archivo que contiene el organismo, título de los artículos encontrados con los IDs 
+        proporcionados y título y abstracts de los artículos correspondientes a las citas de cada
+        artículo.
 EXAMPLES
         Input
         {'Drosophila melanogaster': ['pmc',
